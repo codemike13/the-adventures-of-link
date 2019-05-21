@@ -36,3 +36,9 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.insaneBackground {
+  background: url(https://bit.ly/2QfRWe6) no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
