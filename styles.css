@@ -49,3 +49,9 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.fireBackground {
+  background: url(https://ghost-videos.com/wp-content/uploads/2016/11/scary-campfire.jpg)
+    no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
