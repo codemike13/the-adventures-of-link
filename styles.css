@@ -42,3 +42,10 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.creatureBackground {
+  background: url(https://i.kym-cdn.com/photos/images/original/001/112/515/a38.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
