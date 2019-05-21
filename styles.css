@@ -1,0 +1,20 @@
+.containerMountain {
+  border: solid blueviolet;
+  width: 325px;
+  height: 200px;
+  text-align: center;
+  background-size: 100%;
+  background-image: url(http://hd.wallpaperswide.com/thumbs/dark_mountains-t2.jpg);
+}
+
+.containerFire {
+  border: solid blueviolet;
+  width: 325px;
+  height: 200px;
+  text-align: center;
+  background-size: 100%;
+  background-image: url(https://us.123rf.com/450wm/prettyvectors/prettyvectors1510/prettyvectors151000001/46350518-stock-vector-bonfire-with-marshmallow-vector-flat-illustration.jpg?ver=6);
+}
+.centered {
+  text-align: center;
+}
